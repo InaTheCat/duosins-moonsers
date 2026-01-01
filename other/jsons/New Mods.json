@@ -1,4 +1,9 @@
 {
 	"mods":[
+		{
+			"name": "test",
+			"description": "le testeo",
+			"link": "https://codename-engine.com/"
+		}
 	]
 }
