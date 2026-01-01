@@ -1,2 +1,2 @@
-# dousin-moonsers
-utils and shit for the Dousin Moonsers mods
+# duosin-moonsers
+utils and shit for the Duosins Moonsers mods and more
