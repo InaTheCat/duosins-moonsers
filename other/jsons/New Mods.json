@@ -1,13 +1,13 @@
 {
 	"mods":[
 		{
-			"name": "test", 
-			"description": "le testeo", 
-			"link": "https://codename-engine.com/"	
+			"name": "test",
+			"description": "le testeo",
+			"link": "https://codename-engine.com/"
 		},
 		{
-			"name": "test 22222222222222", 
-			"description": "le otro testeo but con el texto mas pinche grandote q pdo jejejejejejjejej", 
+			"name": "test 22222222222222",
+			"description": "le otro testeo but con el texto mas pinche grandote q pdo jejejejejejjejej",
 			"link": "https://youtube.com/@InaTheCat"
 		}
 	]
